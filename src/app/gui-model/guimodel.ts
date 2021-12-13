@@ -6,7 +6,7 @@ export class GuiModel {
 
     private _guiModel = {
         "application": {
-            "title": "Kribbos Friend Tracker",
+            "title": "Kribbohs Friend Tracker",
 
             //"Formulare" für hinzufügen von Freunden, Locations, etc..
             "formList": [
