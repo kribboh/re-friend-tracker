@@ -7,6 +7,8 @@ export class GuiModel {
     private _guiModel = {
         "application": {
             "title": "Kribbos Friend Tracker",
+
+            //"Formulare" für hinzufügen von Freunden, Locations, etc..
             "formList": [
                 {
                     "id": "FriendForm",
@@ -271,7 +273,6 @@ export class GuiModel {
                     ]
                 },
 
-                //Details
                 {
                 //Friend Page
                     "id": "friendspage",
@@ -298,7 +299,7 @@ export class GuiModel {
                         },
                     ]
                 },
-                //Detail Friend Page
+                //Friend Page
                 {
                     "id": "detail_friendspage",
                     "elementList": [
@@ -447,7 +448,7 @@ export class GuiModel {
 
                     ]
                 },
-                //Activity Detail Page 
+                //Activity Page 
                  {
                     "id": "detail_activitiespage",
                     "elementList": [
